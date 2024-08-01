@@ -32,10 +32,6 @@ comments :
     short_name : ""
 
 # Internal nav
-nav:
-  - GALLERY: "https://himitsunai.github.io/dragonart/gallery/"  
-  - JOURNAL: "https://himitsunai.github.io/dragonart/journal/"
-  - ABOUT: "https://himitsunai.github.io/dragonart/about/"
 
 # All translation keys
 translations:
