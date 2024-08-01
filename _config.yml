@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: DRAGONART
 email: ""
 description: "Photo Journal"
 url: "https://himitsunai.github.io"
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   DRAGONART
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: art site
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
